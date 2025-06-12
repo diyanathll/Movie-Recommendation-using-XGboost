@@ -1,0 +1,7 @@
+instal ini dlu yaaa!
+
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
