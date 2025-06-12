@@ -1,7 +1,7 @@
-instal ini dlu yaaa!
+#instal ini dlu yaaa!
 
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
+1.streamlit
+2.pandas
+3.numpy
+4.scikit-learn
+5.xgboost
